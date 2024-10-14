@@ -47,6 +47,12 @@ const default_config = {
               icon_color: palette.red,
             },
             {
+              name: "zybooks",
+              url: "https://learn.zybooks.com/zybook/CSULBCECS326LamFall2024",
+              icon: "square-letter-z",
+              icon_color: palette.peach,
+            },
+            {
               name: "gmail",
               url: "https://mail.google.com",
               icon: "brand-gmail",
