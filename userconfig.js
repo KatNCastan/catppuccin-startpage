@@ -53,12 +53,6 @@ const default_config = {
               icon_color: palette.green,
             },
             {
-              name: "gmail",
-              url: "https://mail.google.com",
-              icon: "brand-gmail",
-              icon_color: palette.green,
-            },
-            {
               name: "calendar",
               url: "https://calendar.google.com",
               icon: "calendar-filled",
@@ -78,7 +72,7 @@ const default_config = {
             {
               name: "youtube",
               url: "https://youtube.com",
-              icon: "border-youtube",
+              icon: "brand-youtube",
               icon_color: palette.red,
             },
             {
