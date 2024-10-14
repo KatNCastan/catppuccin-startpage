@@ -20,25 +20,38 @@ const default_config = {
       background_url: "src/img/banners/cbg-9.gif",
       categories: [
         {
-          name: "bookmarks",
+          name: "frequent",
           links: [
             {
-              name: "raindrop",
-              url: "https://app.raindrop.io",
-              icon: "droplet-bolt",
+              name: "amazon",
+              url: "https://amazon.com",
+              icon: "brand-amazon",
               icon_color: palette.green,
             },
-            {
-              name: "musicForProgramming();",
-              url: "https://musicforprogramming.net",
-              icon: "binary-tree",
-              icon_color: palette.peach,
-            },
+            
           ],
         },
         {
           name: "workspace",
           links: [
+            {
+              name: "sso",
+              url: "https://myapps.microsoft.com/",
+              icon: "school",
+              icon_color: palette.blue,
+            },
+            {
+              name: "canvas",
+              url: "https://csulb.instructure.com/",
+              icon: "circle-dashed",
+              icon_color: palette.red,
+            },
+            {
+              name: "gmail",
+              url: "https://mail.google.com",
+              icon: "brand-gmail",
+              icon_color: palette.green,
+            },
             {
               name: "gmail",
               url: "https://mail.google.com",
@@ -52,12 +65,6 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "sheets",
-              url: "https://docs.google.com/spreadsheets",
-              icon: "table",
-              icon_color: palette.red,
-            },
-            {
               name: "drive",
               url: "https://drive.google.com/drive/home",
               icon: "brand-google-drive",
@@ -69,34 +76,22 @@ const default_config = {
           name: "media",
           links: [
             {
-              name: "уп",
-              url: "https://www.pravda.com.ua",
-              icon: "news",
-              icon_color: palette.green,
-            },
-            {
-              name: "mil.in.ua",
-              url: "https://mil.in.ua",
-              icon: "badge-filled",
-              icon_color: palette.peach,
-            },
-            {
-              name: "куток",
-              url: "https://kutok.io",
-              icon: "border-radius",
+              name: "youtube",
+              url: "https://youtube.com",
+              icon: "border-youtube",
               icon_color: palette.red,
             },
             {
-              name: "ґрунт",
-              url: "https://grnt.media",
-              icon: "eye-bolt",
-              icon_color: palette.blue,
+              name: "lofi cafe",
+              url: "https://www.lofi.cafe/",
+              icon: "headphones",
+              icon_color: palette.peach
             },
             {
-              name: "village",
-              url: "https://www.village.com.ua",
-              icon: "home-2",
-              icon_color: palette.mauve,
+              name: "musicForProgramming();",
+              url: "https://musicforprogramming.net",
+              icon: "binary-tree",
+              icon_color: palette.peach,
             },
           ],
         },
