@@ -17,7 +17,7 @@ const default_config = {
   tabs: [
     {
       name: "myself",
-      background_url: "src/img/banners/cbg-11.gif",
+      background_url: "src/img/banners/cbg-6.gif",
       categories: [
         {
           name: "frequent",
@@ -186,7 +186,7 @@ const default_config = {
     },
     {
       name: "chi ll",
-      background_url: "src/img/banners/cbg-10.gif",
+      background_url: "src/img/banners/cbg-4.gif",
       categories: [
         {
           name: "social medias",
@@ -206,8 +206,14 @@ const default_config = {
           ],
         },
         {
-          name: ".",
+          name: "hobby",
           links: [
+            {
+              name: "drawabox",
+              url: "https://drawabox.com/",
+              icon: "box",
+              icon_color: palette.peach,
+            },
           ],
         },
         {
