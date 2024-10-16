@@ -12,7 +12,7 @@ const default_config = {
     iconColor: palette.maroon,
   },
   disabled: [],
-  fastlink: "https://app.raindrop.io",
+  fastlink: "https://github.com/Schrodingers-Kat/catppuccin-startpage/",
   openLastVisitedTab: true,
   tabs: [
     {
@@ -26,7 +26,7 @@ const default_config = {
               name: "amazon",
               url: "https://amazon.com",
               icon: "brand-amazon",
-              icon_color: palette.green,
+              icon_color: palette.peach,
             },
             
           ],
