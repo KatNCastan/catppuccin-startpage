@@ -122,6 +122,12 @@ const default_config = {
               icon: "24-hours",
               icon_color: palette.red,
             },
+            {
+              name: "chatgpt".
+              url: "https://chatgpt.com/",
+              icon: "circle-triangle",
+              icon_color: palette.blue,
+            },
           ],
         },
         {
