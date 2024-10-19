@@ -123,7 +123,7 @@ const default_config = {
               icon_color: palette.red,
             },
             {
-              name: "chatgpt".
+              name: "chatgpt",
               url: "https://chatgpt.com/",
               icon: "circle-triangle",
               icon_color: palette.blue,
