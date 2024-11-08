@@ -12,7 +12,7 @@ const default_config = {
     iconColor: palette.maroon,
   },
   disabled: [],
-  fastlink: "https://github.com/Schrodingers-Kat/catppuccin-startpage/",
+  fastlink: "https://github.com/KatNCastan/catppuccin-startpage/",
   openLastVisitedTab: true,
   tabs: [
     {
@@ -152,9 +152,9 @@ const default_config = {
               icon_color: palette.red,
             },
             {
-              name: "stackoverflow",
-              url: "https://stackoverflow.com",
-              icon: "brand-stackoverflow",
+              name: "codesignal",
+              url: "https://codesignal.com",
+              icon: "dog",
               icon_color: palette.blue,
             },
           ],
