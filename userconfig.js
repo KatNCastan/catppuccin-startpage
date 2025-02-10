@@ -119,7 +119,7 @@ const default_config = {
             {
               name: "udacity",
               url: "https://www.udacity.com/",
-              icon: "circle-letter-u",
+              icon: "fish",
               icon_color: palette.blue,
             },
             {
@@ -131,7 +131,7 @@ const default_config = {
             {
               name: "edx",
               url: "https://www.edx.org/",
-              icon: "circle-letter-x",
+              icon: "square-letter-x",
               icon_color: palette.green,
             },
             {
