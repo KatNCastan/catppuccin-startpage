@@ -132,7 +132,13 @@ const default_config = {
               name: "edx",
               url: "https://www.edx.org/",
               icon: "letter-x-small",
-              icon_color: palette.green
+              icon_color: palette.green,
+            },
+            {
+              name: "deepseek",
+              url: "https://chat.deepseek.com/",
+              icon: "fish",
+              icon_color: palette.blue,
             },
           ],
         },
