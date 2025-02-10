@@ -119,7 +119,7 @@ const default_config = {
             {
               name: "udacity",
               url: "https://www.udacity.com/",
-              icon: "fish",
+              icon: "letter-u",
               icon_color: palette.blue,
             },
             {
@@ -132,6 +132,12 @@ const default_config = {
               name: "edx",
               url: "https://www.edx.org/",
               icon: "square-letter-x",
+              icon_color: palette.green,
+            },
+            {
+              name: "codecademy",
+              url: "https://www.codecademy.com/",
+              icon: "terminal-2",
               icon_color: palette.green,
             },
             {
@@ -175,10 +181,10 @@ const default_config = {
           name: "blogs",
           links: [
             {
-              name: "dou",
-              url: "https://dou.ua",
-              icon: "brand-prisma",
-              icon_color: palette.green,
+              name: "fireship",
+              url: "https://www.youtube.com/@Fireship",
+              icon: "flame",
+              icon_color: palette.red,
             },
             {
               name: "hackernews",
@@ -187,9 +193,9 @@ const default_config = {
               icon_color: palette.peach,
             },
             {
-              name: "uber research",
-              url: "https://eng.uber.com/category/articles",
-              icon: "brand-uber",
+              name: "r/learnprogramming",
+              url: "https://www.reddit.com/r/learnprogramming/",
+              icon: "brand-reddit",
               icon_color: palette.red,
             },
             {
