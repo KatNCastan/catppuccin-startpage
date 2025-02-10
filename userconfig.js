@@ -131,7 +131,7 @@ const default_config = {
             {
               name: "edx",
               url: "https://www.edx.org/",
-              icon: "letter-x",
+              icon: "square-letter-x",
               icon_color: palette.green,
             },
             {
