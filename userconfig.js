@@ -146,6 +146,12 @@ const default_config = {
               icon: "fish",
               icon_color: palette.blue,
             },
+            {
+              name: "developer roadmaps",
+              url: "https://roadmap.sh/",
+              icon: "square-letter-r",
+              icon_color: palette.blue,
+            },
           ],
         },
         {
