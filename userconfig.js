@@ -204,12 +204,6 @@ const default_config = {
               icon: "brand-reddit",
               icon_color: palette.red,
             },
-            {
-              name: "google research",
-              url: "https://blog.research.google",
-              icon: "hexagon-letter-g",
-              icon_color: palette.blue,
-            },
           ],
         },
       ],
