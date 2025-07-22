@@ -28,7 +28,12 @@ const default_config = {
               icon: "brand-amazon",
               icon_color: palette.peach,
             },
-            
+            {
+              name: "google keep",
+              url: "https://keep.google.com/u/0/",
+              icon: "bulb",
+              icon_color: palette.peach,
+            },
           ],
         },
         {
@@ -226,6 +231,12 @@ const default_config = {
               url: "https://www.reddit.com/r/unixporn",
               icon: "brand-reddit",
               icon_color: palette.red,
+            },
+            {
+              name: "bluesky",
+              url: "https://bsky.app/",
+              icon: "brand-bluesky",
+              icon_color: palette.blue,
             },
           ],
         },
