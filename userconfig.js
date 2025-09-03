@@ -20,7 +20,7 @@ const default_config = {
       background_url: "src/img/banners/cbg-6.gif",
       categories: [
         {
-          name: "frequent",
+          name: "お気に入り",
           links: [
             {
               name: "amazon",
@@ -37,7 +37,7 @@ const default_config = {
           ],
         },
         {
-          name: "workspace",
+          name: "仕事・大学",
           links: [
             {
               name: "sso",
@@ -78,7 +78,7 @@ const default_config = {
           ],
         },
         {
-          name: "media",
+          name: "メディア",
           links: [
             {
               name: "youtube",
@@ -103,11 +103,11 @@ const default_config = {
       ],
     },
     {
-      name: "dev",
+      name: "プログラミング",
       background_url: "src/img/banners/cbg-8.gif",
       categories: [
         {
-          name: "resources",
+          name: "リソース",
           links: [
             {
               name: "github",
@@ -160,7 +160,7 @@ const default_config = {
           ],
         },
         {
-          name: "challenges",
+          name: "チャレンジ",
           links: [
             {
               name: "kaggle",
@@ -189,7 +189,7 @@ const default_config = {
           ],
         },
         {
-          name: "blogs",
+          name: "ブログ",
           links: [
             {
               name: "fireship",
@@ -214,11 +214,11 @@ const default_config = {
       ],
     },
     {
-      name: "chi ll",
+      name: "休み",
       background_url: "src/img/banners/cbg-4.gif",
       categories: [
         {
-          name: "social medias",
+          name: "ソーシャルメディア",
           links: [
             {
               name: "tumblr",
@@ -241,7 +241,7 @@ const default_config = {
           ],
         },
         {
-          name: "hobby",
+          name: "ホビー",
           links: [
             {
               name: "drawabox",
@@ -252,7 +252,7 @@ const default_config = {
           ],
         },
         {
-          name: "misc",
+          name: "その他",
           links: [
             {
               name: "patreon",
