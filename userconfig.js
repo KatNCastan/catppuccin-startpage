@@ -4,7 +4,7 @@ const palette = frappe;
 const default_config = {
   overrideStorage: true,
   temperature: {
-    location: "Torrance",
+    location: "Westchester",
     scale: "F",
   },
   clock: {
@@ -16,7 +16,7 @@ const default_config = {
   openLastVisitedTab: true,
   tabs: [
     {
-      name: "myself",
+      name: "自分",
       background_url: "src/img/banners/cbg-6.gif",
       categories: [
         {
