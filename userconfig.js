@@ -103,7 +103,7 @@ const default_config = {
       ],
     },
     {
-      name: "プログラミング",
+      name: "プログラム",
       background_url: "src/img/banners/cbg-8.gif",
       categories: [
         {
